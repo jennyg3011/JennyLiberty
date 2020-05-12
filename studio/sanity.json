@@ -1,11 +1,11 @@
 {
   "root": true,
   "project": {
-    "name": "PROJECT_NAME"
+    "name": "JennyLiberty"
   },
   "api": {
-    "projectId": "PROJECT_ID",
-    "dataset": "DATASET_ID"
+    "projectId": "2jvrc6g7",
+    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
